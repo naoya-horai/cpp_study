@@ -1,0 +1,4 @@
+/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/CMakeFiles/Qt_Test.dir
+/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/CMakeFiles/edit_cache.dir
+/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/CMakeFiles/rebuild_cache.dir
+/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/CMakeFiles/Qt_Test_autogen.dir
