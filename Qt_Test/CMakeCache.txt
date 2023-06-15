@@ -176,7 +176,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Qt_Test
+CMAKE_PROJECT_NAME:STATIC=Qt_Test2
 
 //Value Computed by CMake
 CMAKE_PROJECT_VERSION:STATIC=1.0.0
@@ -274,6 +274,9 @@ QT_ADDITIONAL_HOST_PACKAGES_PREFIX_PATH:STRING=
 //Additional directories where find(Qt6 ...) components are searched
 QT_ADDITIONAL_PACKAGES_PREFIX_PATH:STRING=
 
+//The directory containing a CMake configuration file for Qt6CoreREQUIRED.
+Qt6CoreREQUIRED_DIR:PATH=Qt6CoreREQUIRED_DIR-NOTFOUND
+
 //The directory containing a CMake configuration file for Qt6CoreTools.
 Qt6CoreTools_DIR:PATH=/opt/homebrew/lib/cmake/Qt6CoreTools
 
@@ -292,6 +295,9 @@ Qt6GuiTools_DIR:PATH=/opt/homebrew/lib/cmake/Qt6GuiTools
 //The directory containing a CMake configuration file for Qt6Gui.
 Qt6Gui_DIR:PATH=/opt/homebrew/lib/cmake/Qt6Gui
 
+//The directory containing a CMake configuration file for Qt6Widgets,Gui,Core.
+Qt6Widgets,Gui,Core_DIR:PATH=Qt6Widgets,Gui,Core_DIR-NOTFOUND
+
 //The directory containing a CMake configuration file for Qt6WidgetsTools.
 Qt6WidgetsTools_DIR:PATH=/opt/homebrew/lib/cmake/Qt6WidgetsTools
 
@@ -300,6 +306,15 @@ Qt6Widgets_DIR:PATH=/opt/homebrew/lib/cmake/Qt6Widgets
 
 //The directory containing a CMake configuration file for Qt6.
 Qt6_DIR:PATH=/opt/homebrew/lib/cmake/Qt6
+
+//Value Computed by CMake
+Qt_Test2_BINARY_DIR:STATIC=/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test
+
+//Value Computed by CMake
+Qt_Test2_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Qt_Test2_SOURCE_DIR:STATIC=/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test
 
 //Value Computed by CMake
 Qt_Test_BINARY_DIR:STATIC=/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test

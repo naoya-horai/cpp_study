@@ -1,5 +1,5 @@
 {
-	"BUILD_DIR" : "/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/Qt_Test_autogen",
+	"BUILD_DIR" : "/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/Qt_Test2_autogen",
 	"CMAKE_BINARY_DIR" : "/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test",
 	"CMAKE_CURRENT_BINARY_DIR" : "/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test",
 	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test",
@@ -317,8 +317,8 @@
 	"DEP_FILE_RULE_NAME" : "",
 	"HEADERS" : [],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/Qt_Test_autogen/include",
-	"MOC_COMPILATION_FILE" : "/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/Qt_Test_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/Qt_Test2_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/Qt_Test2_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -360,17 +360,17 @@
 		"-c",
 		"/opt/homebrew/Cellar/cmake/3.26.4/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/Qt_Test_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/Qt_Test2_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 8,
-	"PARSE_CACHE_FILE" : "/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/CMakeFiles/Qt_Test_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/CMakeFiles/Qt_Test2_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/moc",
 	"QT_UIC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/uic",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 5,
-	"SETTINGS_FILE" : "/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/CMakeFiles/Qt_Test_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/CMakeFiles/Qt_Test2_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[ "/Users/ymgmcmc/ymgmcmc/cpp_study/Qt_Test/main.cpp", "MU", null ]
